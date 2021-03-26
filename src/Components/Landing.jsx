@@ -10,7 +10,7 @@ class Landing extends Component {
                 <img src='./images/Koles_logo.png' alt='Kole Deighan Logo' className='logo'/>
                 <div className='hiring'>
                     <h1>Looking for a New Full-Stack Developer?</h1>
-                    <a href='/' className='button' id='letsTalk'>Let's Talk</a>
+                    <a href='mailto:kbdeigs@gmail.com' className='button' id='letsTalk' target='_blank' rel='noreferrer'>Let's Talk</a>
                 </div>
             </div>
         )

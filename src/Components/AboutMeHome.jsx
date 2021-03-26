@@ -9,7 +9,7 @@ class AboutMeHome extends Component{
                 <h4 className='about'>My name is Kole Deighan and I am a full-stack developer who is new to the field and is looking to break into the industry!</h4>
                 <br />
                 <br />
-                <a href='/' className='button'>About Me</a>
+                <a href='/aboutMe' className='button'>About Me</a>
             </div>
         )
     }
