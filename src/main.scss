@@ -150,7 +150,38 @@ footer{
 }
 
 @media(max-width: 992px){
+  h1{
+    font-weight: bold;
+    font-size: 3em;
+  }
+  
+  h2{
+    color: $soft-gray;
+    font-size: 2.5em;
+    text-align: center;
+  }
+  
+  h3{
+    font-size: 2em;
+    color: $soft-gray;
+    text-align: center;
+  }
+  
+  h4{
+    color: $soft-gray;
+    font-size: 1.5em;
+    margin-right: 25%;
+    margin-left: 25%;
+    text-align: center
+  }
   .landingImage{
     display: none;
   }
+  
+  .landing{
+    background-color: $soft-gray;
+  }
+
+  h1
+
 }
