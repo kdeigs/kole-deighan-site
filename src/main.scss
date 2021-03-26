@@ -170,10 +170,17 @@ footer{
   h4{
     color: $soft-gray;
     font-size: 1.5em;
-    margin-right: 25%;
-    margin-left: 25%;
     text-align: center
   }
+
+  .logo{
+    width: 75%;
+  }
+
+  .headshot{
+    width: 75%;
+  }
+
   .landingImage{
     display: none;
   }
