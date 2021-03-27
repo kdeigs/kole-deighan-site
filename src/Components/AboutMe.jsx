@@ -23,7 +23,7 @@ class AboutMe extends Component{
                     <h4>Here is my Resume and the TLDR. I am a full stack engineer who specializes in the MERN stack and Python, but also dabble in C, C++, and Java. I attended ASU for my first two years, but decided to take a gap semester and join the General Assembly Software Engineering Immersive Program where I am currently finishing up my certification. I have worked on several personal and freelance projects in the past as seen on my github and the projects page. If you have any questions, please feel free to reach out either by phone or email!</h4>
                     <h4>Email: <a href='mailto:kbdeigs@gmail.com' target='_blank' rel='noreferrer'>Kbdeigs@gmail.com</a></h4>
                     <h4>Phone: (773) 451-6363</h4>
-                    <h4>Resume: <a href='./KoleDeighanResume.pdf' download>KoleDeighanResume.pdf</a></h4>
+                    <h4>Resume: <a href='./Kole_Deighan_Resume.pdf' download>KoleDeighanResume.pdf</a></h4>
                 </div>
 
                 <div className='education aboutMeBlock'>
@@ -78,7 +78,7 @@ class AboutMe extends Component{
                 <div className='aboutMeBlock'>
                     <h2>That was Fun!</h2>
                     <div className='aboutMeContent'>
-                        <h4>I’m glad it was, I hope you enjoyed learned about me just a little bit. I would love to speak to you personally, so feel free to reach out to me! If you’re looking for a new developer or simply someone to build your website, I might just be the person for the job! Below are a couple links back to the homepage and projects page if you’d like to see some of my work. Thank you for your time and I hope to hear from you soon!</h4>
+                        <h4>I’m glad it was, I hope you enjoyed learning about me just a little bit. I would love to speak to you personally, so feel free to reach out to me! If you’re looking for a new developer or simply someone to build your website, I might just be the person for the job! Below are a couple links back to the homepage and projects page if you’d like to see some of my work. Thank you for your time and I hope to hear from you soon!</h4>
                     </div>
                 </div>
 

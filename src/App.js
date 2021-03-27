@@ -9,6 +9,7 @@ import {
 
 import Home from './Components/Home';
 import AboutMe from './Components/AboutMe';
+import Projects from './Components/Projects';
 
 
 
@@ -19,7 +20,11 @@ class App extends Component {
         <Router>
           <Switch>
           <Route path='/aboutMe'>
-              <AboutMe />
+            <AboutMe />
+          </Route>
+
+          <Route path='/projects'>
+            <Projects />
           </Route>
         
           <Route path='/'>
