@@ -9,7 +9,7 @@ class ProjectsHome extends Component {
                     <img src='images/Healthshare_Figma.png' alt='Healthshare Prototype' className = 'projectImage'/>
                     <img src='images/Message_Figma.png' alt='Healthshare Prototype' className = 'projectImage'/>
                 </div>
-                <a href='/' className='button' id='projectsButton'>Projects</a>
+                <a href='/projects' className='button' id='projectsButton'>Projects</a>
             </div>
         )
     }
