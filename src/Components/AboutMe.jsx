@@ -9,8 +9,9 @@ class AboutMe extends Component{
                 <nav>
                     <a href='/' className='back'>{'<-'}Back</a>
                 </nav>
-                <div className='whoAmI'>
+                <div className='whoAmI aboutMeBlock'>
                     <h2>Who am I?</h2>
+                    <img src='./images/DeighanCropped.jpg' alt='Kole Deighan Headshot' className='mobileImage'/>
                     <div className='aboutMeContent'>
                         <h4 className='aboutMeText'>Professionally I am a full-stack engineer from Chicago, but personally I like to think of myself as a lot more! I’ll stick to the professional stuff first. I’ve laid out a few of the most commonly asked questions, but if you have any others, please feel free to reach out!</h4>
                         <img src='./images/DeighanCropped.jpg' alt='Kole Deighan Headshot' className='aboutMeImage'/>
@@ -27,6 +28,7 @@ class AboutMe extends Component{
 
                 <div className='education aboutMeBlock'>
                     <h2>What is Your Education</h2>
+                    <img src='./images/arizona.jpg' alt='arizona desert' className='mobileImage' />
                     <div className='aboutMeContent'>
                         <img src='./images/arizona.jpg' alt='arizona desert' className='aboutMeImage' />
                         <h4 className='aboutMeText'>Initially I attended Arizona State University, but with the advent of Covid, I realized that I was paying full-price but not recieving a full education. I decided to take a gap semester and join the General Assembly Programming Bootcamp in Chicago! I am in the process of transferring to the University of Illinois in Chicago to complete my computer science degree while actively pursuing experience in the field. I am currently considered a Junior in my program.</h4>
@@ -35,6 +37,7 @@ class AboutMe extends Component{
 
                 <div className='workExperience aboutMeBlock'>
                     <h2>What is Your Work Experience</h2>
+                    <img src='./images/Office.jpg' alt='Office Space' className='mobileImage' />
                     <div className='aboutMeContent'>
                         <h4 className='aboutMeText'>Although I am young, I have quite a bit of work experience as I have been working since I was 16! My first job was in the customer service industry as a (senior) host where I learned the basics of the customer first mindset as well teamwork and leadership. I even helped to develop a new training method that is still implemented in the resturaunt group today. In college, I also worked as an office assistant for the Business School at ASU where I learned how to work in a professional setting as well as how to use the microsoft suite effectively.</h4>
                         <img src='./images/Office.jpg' alt='Office Space' className='aboutMeImage' />
@@ -43,6 +46,7 @@ class AboutMe extends Component{
 
                 <div className='programming aboutMeBlock'>
                     <h2>What about Programming Experience</h2>
+                    <img src='./images/Code.jpg' alt='Code Snippit' className='mobileImage' />
                     <div className='aboutMeContent'>
                         <img src='./images/Code.jpg' alt='Code Snippit' className='aboutMeImage' />
                         <h4 className='aboutMeText'>Well for starters, I built this site from the ground up using React as a framework and SASS for styling. Besides my education, I have taken part in several freelance, open source, and personal projects as seen on my github and the projects page. My strengths include the MERN stack as well as Python and Flask for a backend. I also have experience with SQL databases like Postgres and SQLite. As for more classical languages, I have experience in Java, C, and C++ and am currently working to strengthen my knowledge of these through courses on edX.</h4>
@@ -51,6 +55,7 @@ class AboutMe extends Component{
 
                 <div className='other aboutMeBlock'>
                     <h2>What else do you do?</h2>
+                    <img src='./images/MountainDrawing.jpg' alt='Office Space' className='mobileImage' />
                     <div className='aboutMeContent'>
                         <h4 className='aboutMeText'>Thank you so much for asking! I actually do quite a few things besides programming. I’m an avid gamer which is one of the reasons I am in programming One of my projects is even an inventory manager for Destiny 2. I also am a (very, very) amateur artist (the piece displayed here is one of my most recent projects). I take these skills I am currently learning from the art industry and apply them to UI/UX design to create beautiful interfaces for users.</h4>
                         <img src='./images/MountainDrawing.jpg' alt='Office Space' className='aboutMeImage' />

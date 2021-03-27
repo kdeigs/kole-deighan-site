@@ -145,7 +145,6 @@ footer{
 }
 
 @media (min-width: 992px) {
-  
   h1{
     font-weight: bold;
     font-size: 5em;
@@ -171,6 +170,10 @@ footer{
     text-align: center
   }
 
+  .mobileImage{
+    display: none;
+  }
+
   .aboutMeContent{
     margin-top: 5%;
     display: flex;
@@ -190,6 +193,7 @@ footer{
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 15%;
+    display: show;
   }
 
   .projectImages{
@@ -255,6 +259,19 @@ footer{
     text-align: center
   }
 
+  .socialText {
+    font-size: 1em;
+  }
+
+  .mobileImage {
+    display: show;
+    width: 75%;
+  }
+
+  .aboutMeImage {
+    display: none;
+  }
+
   .logo{
     width: 75%;
     margin-left: auto;
@@ -289,6 +306,12 @@ footer{
   }
   .aboutMe{
     padding-bottom: 15%;
+  }
+
+  .icon {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 7%;
   }
 
 }
