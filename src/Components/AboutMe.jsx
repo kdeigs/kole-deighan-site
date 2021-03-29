@@ -78,7 +78,7 @@ class AboutMe extends Component{
                 <div className='aboutMeBlock'>
                     <h2>That was Fun!</h2>
                     <div className='aboutMeContent'>
-                        <h4>I’m glad it was, I hope you enjoyed learning about me just a little bit. I would love to speak to you personally, so feel free to reach out to me! If you’re looking for a new developer or simply someone to build your website, I might just be the person for the job! Below are a couple links back to the homepage and projects page if you’d like to see some of my work. Thank you for your time and I hope to hear from you soon!</h4>
+                        <h4>I’m glad it was, I hope you enjoyed learning about me just a little bit. I would love to speak to you personally, so feel free to reach out to me! If you’re looking for a new developer or simply someone to build your website, I might just be the person for the job! Thank you for your time and I hope to hear from you soon!</h4>
                     </div>
                 </div>
 
