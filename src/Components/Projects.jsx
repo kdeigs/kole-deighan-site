@@ -44,7 +44,7 @@ class Projects extends Component{
 
                     <div className='projectItem'>
                         <h3>Level 20 Fitness</h3>
-                        <img src='./images/Level20Fitness.png' alt='Level 20 Fitness Mockup' className='projectPageImage'/>
+                        <img src='./images/Level20Fitness.png' alt='Level 20 Fitness Mockup' className='level20Fitness'/>
                         <h4 className='projectText'>A project built in React Native with a Flask Python backend that gamifies fitness using the levelling system from dungeons and dragons</h4>
                         <a href='https://github.com/kdeigs/level20Fitness' target='_blank' rel='noreferrer'>Link to Project</a>
                     </div>

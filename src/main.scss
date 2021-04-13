@@ -193,7 +193,11 @@ footer{
     text-align: center
   }
 
-
+  .level20Fitness{
+    width: 25%;
+    border: 5px solid $primary-orange;
+    border-radius: 5%;
+  }
 
   .projectItem{
     width: 45%;
@@ -302,6 +306,12 @@ footer{
     width: 75%;
   }
 
+  .level20Fitness{
+    width: 75%;
+    border: 5px solid $primary-orange;
+    border-radius: 5%;
+  }
+
   .socialText {
     font-size: 1em;
   }
@@ -347,6 +357,7 @@ footer{
     flex-direction: column;
     align-items: center;
   }
+
   .aboutMe{
     padding-bottom: 15%;
   }
