@@ -41,6 +41,13 @@ class Projects extends Component{
                         <img src='./images/Message_Figma.png' alt='Message From a Vine Mockup' className='projectPageImage'/>
                         <h4 className='projectText'>Another MERN stack application for the Message from a Vine Co. Currently Working with the owner to finish the project and as such it is not linked</h4>
                     </div>
+
+                    <div className='projectItem'>
+                        <h3>Level 20 Fitness</h3>
+                        <img src='./images/Level20Fitness.png' alt='Message From a Vine Mockup' className='projectPageImage'/>
+                        <h4 className='projectText'>A project built in React Native with a Flask Python backend that gamifies fitness using the levelling system from dungeons and dragons</h4>
+                        <a href='https://github.com/kdeigs/level20Fitness' target='_blank' rel='noreferrer'>Link to Project</a>
+                    </div>
                 </div>
                 
             </div>
